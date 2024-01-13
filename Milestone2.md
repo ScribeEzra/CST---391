@@ -47,7 +47,7 @@ ___
 ---
 
 > As a user, I want to be able to view a product list, read product details, and simulate CRUD functions using both applications.
-< As a user, I want to be able to make use of REST API capabilities.
+> As a user, I want to be able to make use of REST API capabilities.
 
 ___
 
