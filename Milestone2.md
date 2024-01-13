@@ -58,10 +58,26 @@ ___
 
 ___
 
-UI Sitemap
+### UI Sitemap
 
 ___
 
 ![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone1/Biblical%20Bestiary%20UI%20Sitemap.png)
 
 ___
+
+### Risks
+
+___
+
+> Deadlines might not be met if the project becomes too complicated.
+
+___
+
+### Notes
+
+___
+
+n/a
+
+---
