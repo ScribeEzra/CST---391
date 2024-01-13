@@ -31,7 +31,7 @@ ___
 > A bestiary is defined as “a collection of descriptions or representations of real or imaginary animals.” (Webster, n.d.)
 > In this case, I am creating the kind of bestiaries often found in RPG video games such as Final Fantasy. This application will support a creature class as the product.
 > The creature class will have variables such as a “description” string, a “health” int, an “attack” int, a “defense” int, and a “unique” boolean.
-> An example of a biblical creature in the creature class would be
+> An example of a biblical creature in the creature class would be:
 >
 > **Leviathan**
 > - **Description:** A massive sea serpent with a seemingly unending amount of teeth, believed by some to have possibly been the possessed serpent in the Garden of Eden
@@ -47,3 +47,21 @@ ___
 ---
 
 > As a user, I want to be able to view a product list, read product details, and simulate CRUD functions using both applications.
+
+___
+
+### UML Design
+
+___
+
+![ER Diagram](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone1/Biblical%20Bestiary%20ER%20Diagram.png)
+
+___
+
+UI Sitemap
+
+___
+
+![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone1/Biblical%20Bestiary%20UI%20Sitemap.png)
+
+___
