@@ -4,6 +4,8 @@
 ### **CST - 291**
 ### **January 13, 2024**
 
+---
+
 <!-- Part 1 -->
 ### Screenshots
 ![Verified Angular](https://github.com/ScribeEzra/CST---391/blob/main/Media/Activity%202/01.png)
@@ -13,10 +15,12 @@
 Default Application Apperance
 
 ![Changed Application](https://github.com/ScribeEzra/CST---391/blob/main/Media/Activity%202/03.png)
-Change Application Apperance
+Changed Application Apperance
 
 ![Further Changes](https://github.com/ScribeEzra/CST---391/blob/main/Media/Activity%202/04.png)
 Further Changes to Application Apperance
+
+---
 
 <!-- Part 2 -->
 ### Research
@@ -30,3 +34,4 @@ Further Changes to Application Apperance
 > angular.json is meant to hold the settings for angular. 
 > app.component.css is used to define the CSS designs of the application.
 > tsconfid.json is the configuration file for typescript. 
+
