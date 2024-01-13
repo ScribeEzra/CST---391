@@ -31,7 +31,8 @@ ___
 > A bestiary is defined as “a collection of descriptions or representations of real or imaginary animals.” (Webster, n.d.)
 > In this case, I am creating the kind of bestiaries often found in RPG video games such as Final Fantasy. This application will support a creature class as the product.
 > The creature class will have variables such as a “description” string, a “health” int, an “attack” int, a “defense” int, and a “unique” boolean.
-> An example of a biblical creature in the creature class would be:
+> An example of a biblical creature in the creature class would be
+>
 > **Leviathan**
 > - **Description:** A massive sea serpent with a seemingly unending amount of teeth, believed by some to have possibly been the possessed serpent in the Garden of Eden
 > - **Health:** 999999
