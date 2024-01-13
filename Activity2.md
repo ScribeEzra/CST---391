@@ -3,6 +3,7 @@
 ### **Christa Moncrief**
 ### **CST - 291**
 ### **January 13, 2024**
+### **Professor Bobby Estey**
 
 ---
 
@@ -33,5 +34,11 @@ Further Changes to Application Apperance
 > src/environments is missing from my folder layout, but I can easily assume it's used to hold the environment code files.
 > angular.json is meant to hold the settings for angular. 
 > app.component.css is used to define the CSS designs of the application.
-> tsconfid.json is the configuration file for typescript. 
+> tsconfig.json is the configuration file for typescript. 
 
+![InspectedPage](https://github.com/ScribeEzra/CST---391/blob/main/Media/Activity%202/InspectedPage.png)
+> Above, you can see the results of inspecting the page. The displayed code is the index.html file that references the app-root. 
+> app-root is the name of the selector in app.component.ts, which is where the title and message are sent from. 
+> app.component is referenced in main.ts and this refers to app.component.html, app.component.css, and app.component.ts.
+> These three files work together to build a webpage. I can't find app.module.ts anywhere so I assume it has to do with node_modules,
+> which I had previously mentioned is missing as well. 
