@@ -65,7 +65,7 @@ ___
 
 ___
 
-![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone%202/Biblical%20Bestiary%20Bestiary%20UI%20Sitemap.png)
+![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone%202/Biblical%20Bestiary%20UI%20Sitemap.png)
 
 ___
 
