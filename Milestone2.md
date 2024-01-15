@@ -21,7 +21,9 @@ ___
 
 ---
 
-<!-- feedback goes here -->
+> I didnt recieve any feedback so there arent very many changes planned in this milestone.
+> I did fix a typo I noticed on the ER diagram and changed the wording of the functions.
+> In future milestones, I may add a new table or two for creature abilities or item drops.
 
 ---
 
@@ -55,7 +57,7 @@ ___
 
 ___
 
-![ER Diagram](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone1/Biblical%20Bestiary%20ER%20Diagram.png)
+![ER Diagram](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone2/Biblical%20Bestiary%20ER%20Diagram.png)
 
 ___
 
@@ -63,7 +65,7 @@ ___
 
 ___
 
-![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone1/Biblical%20Bestiary%20UI%20Sitemap.png)
+![UI Sitemap](https://github.com/ScribeEzra/CST---391/blob/main/Media/Milestone2/Biblical%20Bestiary%20UI%20Sitemap.png)
 
 ___
 
