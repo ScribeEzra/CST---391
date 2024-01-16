@@ -12,9 +12,9 @@
 ---
 ### Known Issues
 ---
-[Issue Number][Issue Description][State][Date Solved]
-[---][---][---][---]
-[001][SQL Communication Error][Unresolved][n/a]
+|Issue Number|Issue Description|State|Date Solved|
+|---|---|---|---|
+|001|SQL Communication Error|Unresolved|n/a|
 ---
 ### API Doccuentation
 ---
